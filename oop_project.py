@@ -8,4 +8,6 @@ Mane.getBalance()
 
 Reddy.deposit(500)
 
-Reddy.withdraw(8511)
+Reddy.withdraw(811)
+
+Reddy.transfer(200,Mane)
